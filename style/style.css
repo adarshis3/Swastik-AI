@@ -674,7 +674,7 @@ html, body{
     /* part-3 */
     .part-3{
         height: 201vw;
-        margin-top: 50vw;
+        margin-top: 57vw;
     }
     .b-1{
         font-size: 9vw;
@@ -806,29 +806,30 @@ html, body{
         margin-top: 3.3vw;
     }
     .c-4{
-        font-size: 2vw;
-        margin-top: 2vw;
+        font-size: 9vw;
         font-weight: 500;
+        padding-top: 3vw;
     }
     .c-5{
-        font-size: 2vw;
-        margin-top: 2vw;
-        font-weight: 600;
+        font-size: 3vw;
+        font-weight: 500;
+        padding: 1vw 3vw;
     }
     /* part-6 */
     .part-6{
-        height: 159vw;
+        height: 178vw;
         width: 100%;
+        margin-top: 29vw;
     }
     .c-9{
-        font-size: 5vw;
-        font-weight: 600;
+        font-size: 9vw;
+        font-weight: 500;
         padding-top: 3vw;
     }
     .c-10{
-        font-size: 2vw;
-        font-weight: 600;
-        margin-top: 1vw;
+        font-size: 3vw;
+        font-weight: 500;
+        padding: 1vw 3vw;
     }
     .c-11{
         flex-direction: column;
@@ -894,34 +895,35 @@ html, body{
     }
     /* part-7 */
     .part-7{
-        height: 226vw;
+        height: 303vw;
         width: 100%;
     }
     .d-1{
-        font-size: 4vw;
-        font-weight: 600;
+        font-size: 9vw;
+        font-weight: 500;
         padding-top: 3vw;
     }
     .d-2{
-        font-size: 1.5vw;
-        font-weight: 600;
-        margin-top: 2vw;
+        font-size: 3vw;
+        font-weight: 500;
+        padding: 6vw 4vw;
     }
     .d-3{
         flex-direction: column;
+        margin-top: -3vw;
     }
     .d-4{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
     }
     .d-5{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
         margin-top: 3vw;
     }
     .d-6{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
         margin-top: 3vw;
     }
     .d-7{
@@ -929,45 +931,53 @@ html, body{
         margin-top: 0vw;
     }
     .d-8{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
         margin-top: 3vw;
     }
     .d-9{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
         margin-top: 3vw;
     }
     .d-10{
-        height: 29vw;
-        width: 57vw;
+        height: 35vw;
+        width: 87vw;
         margin-top: 3vw;
     }
     .e-1{
-        font-size: 3vw;
+        font-size: 5vw;
         margin-top: 0vw;
     }
     .e-2{
-        font-size: 2.3vw;
+        font-size: 3.3vw;
         font-weight: 500;
+        margin-top: -4vw;
     }
     /* part-8 */
     .part-8{
-        height: 21vw;
+        height: 46vw;
         width: 100%;
+        margin-top: 0vw;
     }
     .e-3{
-        font-size: 4vw;
-        font-weight: 600;
+        font-size: 9vw;
+        font-weight: 500;
+        padding-top: 3vw;
     }
     .e-4{
-        height: 4vw;
-        width: 16vw;
+        height: 7vw;
+        width: 20vw;
+        margin-left: 39vw;
+        margin-top: 3vw;
         font-size: 2vw;
+        background-color: transparent;
+        color: red;
+        border: 0.1vw solid red;
     }
     /* part-10 */
     .part-10{
-        height: 219vw;
+        height: 243vw;
         width: 100%;
         flex-direction: column;
     }
@@ -978,12 +988,14 @@ html, body{
         margin-top: -7vw;
     }
     .e-7{
-        font-size: 7vw;
-        font-weight: 600;
+        font-size: 9vw;
+        font-weight: 500;
+        padding-top: 3vw;
     }
     .e-8{
         font-size: 3vw;
-        font-weight: 600;
+        font-weight: 500;
+        padding: 6vw 4vw;
     }
     .e-9 img{
         height: 73vw;
